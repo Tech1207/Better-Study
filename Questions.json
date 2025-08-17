@@ -116,7 +116,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "When adding material to the surface of a part, if the added material is a solid during deposition, the process is known as ________.": {
@@ -281,7 +281,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "________ describes the ability of a material to be deformed.": {
@@ -806,7 +806,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "A ________ jig is one of the simplest types of jig.": {
@@ -970,8 +970,8 @@
         ],
         "stats": {
             "right": 0,
-            "wrong": 1,
-            "times_seen": 1
+            "wrong": 0,
+            "times_seen": 0
         }
     },
     "Which of the following is not a common welding process?": {
@@ -1360,8 +1360,8 @@
         ],
         "stats": {
             "right": 0,
-            "wrong": 1,
-            "times_seen": 1
+            "wrong": 0,
+            "times_seen": 0
         }
     },
     "A ________ is an additional void in the mold that also fills with molten metal.": {
@@ -1529,7 +1529,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "Which of the following burr removal methods provides the highest quality surface finish?": {
@@ -1977,7 +1977,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "What is the primary purpose of the outer zone of an oxyacetylene welding flame?": {
@@ -2022,7 +2022,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "__________is the oldest solid-state welding process.": {
@@ -2277,7 +2277,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "What turning operation cuts off a section of material from the remaining workpiece?": {
@@ -2500,9 +2500,9 @@
             "Milling and Turning"
         ],
         "stats": {
-            "right": 1,
+            "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "What is the four-step sequence of operations that is used to produce a hole a hole that is accurate and aligned.": {
@@ -2562,7 +2562,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "What type of chuck is used on ferrous material only?": {
@@ -2577,7 +2577,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "The ________ means that a workpiece is located with respect to three perpendicular planes.": {
@@ -2668,7 +2668,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "What type of mechanical fastener is a screw or bolt classified as?": {
@@ -3024,7 +3024,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "Which plastic fabrication process should ideally be used to manufacture the products shown below?": {
@@ -3264,7 +3264,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "At the highest currents and voltages, the mode of metal deposition in gas-metal arc welding becomes__________.": {
@@ -3458,8 +3458,8 @@
         ],
         "stats": {
             "right": 0,
-            "wrong": 1,
-            "times_seen": 1
+            "wrong": 0,
+            "times_seen": 0
         }
     },
     "What force/forces is/are the material subjected to during the bending process?": {
@@ -3564,7 +3564,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "________ describes the volumetric amount of material removed per pass of the machining tool.": {
@@ -4165,7 +4165,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "Resistance welds are generally__________than arc welds.": {
@@ -4628,7 +4628,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "Oxyacetylene cutting is characterized by a__________rate of heat input and a__________heat-affected zone.": {
@@ -4688,7 +4688,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "__________is the simplest and most widely used form of resistance welding.": {
@@ -4733,7 +4733,7 @@
         "stats": {
             "right": 0,
             "wrong": 0,
-            "times_seen": 1
+            "times_seen": 0
         }
     },
     "Which of the following is not a basic fusion weld?": {
