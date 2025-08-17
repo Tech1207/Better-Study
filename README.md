@@ -3,5 +3,5 @@ Run CreateDictionary.py
 Run Quiz.py or lauch_quiz.bat
 
 Python is required to be installed.
-Link to python download for windows: [https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe](url)
+Link to python download for windows: [https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe]
 You can also of course just download it directly form the python website
