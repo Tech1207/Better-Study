@@ -1,0 +1,9 @@
+{
+    "WINDOW_WIDTH": 1200,
+    "WINDOW_HEIGHT": 800,
+    "FONT_SIZE": 20,
+    "COLUMN_COUNT": 3,
+    "ROW_PADDING": 5,
+    "COLUMN_PADDING": 50,
+    "REFRESH_INTERVAL": 1
+}

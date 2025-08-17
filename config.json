@@ -1,0 +1,11 @@
+{
+    "SHOW_SCROLLBAR": true,
+    "ENABLE_SKIP_BUTTON": false,
+    "NEXT_DELAY": 2,
+    "SCROLL_OFFSET": 0,
+    "DRAG_SCROLLBAR": false,
+    "SHOW_STATS_INFO": true,
+    "MANUAL_QUESTION_FONT": null,
+    "MANUAL_ANSWER_FONT": null,
+    "MANUAL_UI_FONT": null
+}

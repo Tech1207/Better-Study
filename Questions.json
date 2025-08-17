@@ -1,0 +1,4844 @@
+{
+    "________ refers to the finely spaced surface irregularities.": {
+        "correct": [
+            "Roughness"
+        ],
+        "wrong": [
+            "Lay",
+            "Surface finish",
+            "Waviness"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, the surface layer often imparts conductivity while the core provides strength and rigidity.": {
+        "correct": [
+            "copper-clad steel rods"
+        ],
+        "wrong": [
+            "alclad aluminum",
+            "stainless steel-clad steels",
+            "tungsten-clad gears"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ are the small, sometimes flexible projections of material that adhere to the edges of workpieces that are formed by machining.": {
+        "correct": [
+            "Burrs"
+        ],
+        "wrong": [
+            "Chamfers",
+            "Flashing",
+            "Rounds"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ such as rust can form in material that is stored between operations and must be removed before further operations.": {
+        "correct": [
+            "Oxides"
+        ],
+        "wrong": [
+            "Abrasives",
+            "Electroplatings",
+            "Scale"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, the vapors of a chlorinated or fluorinated solvent are used to remove oil, grease, and wax from metal products.": {
+        "correct": [
+            "vapor degreasing"
+        ],
+        "wrong": [
+            "acid pickling",
+            "alkaline cleaning",
+            "solvent cleaning"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the most widely used method of imparting corrosion resistance to steel.": {
+        "correct": [
+            "Hot-dip galvanizing"
+        ],
+        "wrong": [
+            "Chemical conversion coating",
+            "Electroplating",
+            "Mechanical plating"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the most widely used finish on manufactured products?": {
+        "correct": [
+            "Painting"
+        ],
+        "wrong": [
+            "Anodizing",
+            "Sandblasting",
+            "Electroplating"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Of all the burr removal methods, ________ is usually the most economical.": {
+        "correct": [
+            "tumbling or vibratory finishing"
+        ],
+        "wrong": [
+            "abrasive-flow machining",
+            "explosive welding",
+            "thermal-energy deburring"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "When adding material to the surface of a part, if the added material is a solid during deposition, the process is known as ________.": {
+        "correct": [
+            "cladding"
+        ],
+        "wrong": [
+            "cavitation",
+            "coating",
+            "pickling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is recommended for applying prime coats and for painting small parts where overspray is a concern.": {
+        "correct": [
+            "Dipping"
+        ],
+        "wrong": [
+            "Electrodeposition",
+            "Powder coating",
+            "Spray painting"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "_______ is a cold-working process that is used to plastically form recessed cavities in a workpiece.": {
+        "correct": [
+            "Hubbing"
+        ],
+        "wrong": [
+            "Riveting",
+            "Roll-extrusion",
+            "Sizing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, the bending form remains stationary and the pressure tool moves along the surface of the workpiece.": {
+        "correct": [
+            "compression bending"
+        ],
+        "wrong": [
+            "draw bending",
+            "press bending",
+            "roll bending"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In this shearing operation, a large number of closely spaced holes is produced where a slug is removed from each hole.": {
+        "correct": [
+            "perforating"
+        ],
+        "wrong": [
+            "lancing",
+            "nibbling",
+            "notching"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a type of deformation process?": {
+        "correct": [
+            "Melting"
+        ],
+        "wrong": [
+            "Bending",
+            "Bulk flow",
+            "Shearing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following processes would increase the accuracy of a part size while hot forming?": {
+        "correct": [
+            "Closed die forging"
+        ],
+        "wrong": [
+            "Split die forging",
+            "Form die forging",
+            "Open die forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When a metal is plastically deformed, impurities tend to reorient themselves in the direction of working, displaying ________.": {
+        "correct": [
+            "flow structure"
+        ],
+        "wrong": [
+            "anisotropy",
+            "Luders bands",
+            "strain hardening"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is an example of a dependent variable?": {
+        "correct": [
+            "Surface finish and precision"
+        ],
+        "wrong": [
+            "Starting material",
+            "Tool or die geometry",
+            "Lubrication"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following types of press is often used for operations on curved or cylindrical workpieces?": {
+        "correct": [
+            "Horn press"
+        ],
+        "wrong": [
+            "Arch-frame press",
+            "Inclinable press",
+            "Turret press"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Cold forming is typically used to produce _______.": {
+        "correct": [
+            "small parts of lower strength metal"
+        ],
+        "wrong": [
+            "small parts of ultrahigh strength metal",
+            "large parts of lower strength metal",
+            "large parts of ultrahigh strength metal"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "________ describes the ability of a material to be deformed.": {
+        "correct": [
+            "Formability"
+        ],
+        "wrong": [
+            "Anisotropy",
+            "Springback",
+            "Yield-point runout"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following best describes a production system?": {
+        "correct": [
+            "The total company including people, money, equipment, materials, supplies, marketing and management."
+        ],
+        "wrong": [
+            "A set of skilled workers who are able to operate lathes.",
+            "A collection of operations and processes that produce a desired product or component.",
+            "Converting unfinished materials to finished products using cutting tools and machining processes."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which manufacturing system best represents a typical machine shop?": {
+        "correct": [
+            "Job shop"
+        ],
+        "wrong": [
+            "Linked cell",
+            "Flow shop",
+            "Project shop"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is NOT a step in the product life cycle?": {
+        "correct": [
+            "Production"
+        ],
+        "wrong": [
+            "Decline",
+            "Maturation",
+            "Rapid Growth"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which statement best describes a flow shop?": {
+        "correct": [
+            "Product orientated, specialized, non-flexible machines."
+        ],
+        "wrong": [
+            "Automated, U-shaped cell manufacturing system design.",
+            "Producing the product on site.",
+            "The product physically flows (liquids, powders)."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the largest part of the selling price of a product?": {
+        "correct": [
+            "Manufacturing cost"
+        ],
+        "wrong": [
+            "Marketing cost",
+            "Administrative cost",
+            "Engineering Cost"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Additive Manufacturing Refers to:": {
+        "correct": [
+            "3D printing"
+        ],
+        "wrong": [
+            "Assembly Lines",
+            "Combining powdered materials into the desired shape and then heating them under pressure",
+            "The process of combining dissimilar materials into a new one with properties of each"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following greatly influences the standard of living in any society?": {
+        "correct": [
+            "The goods and services that are available."
+        ],
+        "wrong": [
+            "The number of engineers in that society.",
+            "The number of automobiles per family.",
+            "The political climate."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is NOT part of the production system that services the manufacturing system?": {
+        "correct": [
+            "Construction"
+        ],
+        "wrong": [
+            "Distribution center",
+            "Product design engineering",
+            "Purchase and inspection"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The manufacturing process converts unfinished goods into finished products. It uses:": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "Stations, which are the locations where production works are performed",
+            "Jobs, the groups of activities workers perform",
+            "Machine tools, used to do simple or complex operations on the material"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is vital for the interchangeability of parts produced worldwide?": {
+        "correct": [
+            "Standardization of measurement"
+        ],
+        "wrong": [
+            "Cost",
+            "Products have to look alike",
+            "Products have to made in the same country"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What part on the lathe is used to adjust the feed rate on an engine lathe?": {
+        "correct": [
+            "Quick-change gear box"
+        ],
+        "wrong": [
+            "Feed reverse lever",
+            "Lead screw",
+            "Carriage"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In down milling, the thickness of the chip is greatest when ________.": {
+        "correct": [
+            "the tooth contacts the work"
+        ],
+        "wrong": [
+            "the tooth leaves the work",
+            "Either a or b, depending on the tool",
+            "Either a or b, depending on the material"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not one of the basic chip formation processes?": {
+        "correct": [
+            "Forming"
+        ],
+        "wrong": [
+            "Broaching",
+            "Milling",
+            "Turning"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the four most common cutting tool materials used today?": {
+        "correct": [
+            "High Speed Steel, Coated Carbides, Coated High Speed Steel, Ceramics"
+        ],
+        "wrong": [
+            "High Carbon Steel, Sialons, Ceramics, Sintered Carbide",
+            "Diamond, Aluminum, Coated Carbide, Cermets",
+            "Cast Cobalt alloy, Stainless Steel, Titanium, Cemented Carbide"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What part of a cutting tool insert causes the chip to curl up tightly?": {
+        "correct": [
+            "Chip groove"
+        ],
+        "wrong": [
+            "Nose Radius?",
+            "Back Rake",
+            "Cutting Edge"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is producing a flat surface by feeding a tool across the end of a rotating workpiece.": {
+        "correct": [
+            "Facing"
+        ],
+        "wrong": [
+            "Boring",
+            "Turning",
+            "Drilling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the three main factors that affect the life of a toolbit?": {
+        "correct": [
+            "cutting speed, depth of cut, feed rate"
+        ],
+        "wrong": [
+            "workpiece material, depth of cut, tool bit material",
+            "type of lathe, work piece material, tool bit material",
+            "cutting speed, type of lathe, threads per inch"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "According to the following graph, which material has the highest hot hardness?": {
+        "correct": [
+            "Ceramics and cermets"
+        ],
+        "wrong": [
+            "High speed steel",
+            "Carbon tool steel",
+            "Carbide"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What machining operation is performed on internal cylindrical and conical surfaces, opening up a hole to a specific size and making it concentric with the axis of rotation of the workpiece?": {
+        "correct": [
+            "Boring"
+        ],
+        "wrong": [
+            "Reaming",
+            "Facing",
+            "Knurling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What turning operation produces a flat surface on the end of a workpiece, perpendicular to the spindle axis?": {
+        "correct": [
+            "Facing"
+        ],
+        "wrong": [
+            "Turning",
+            "Drilling",
+            "Milling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What general process removes unwanted material from the workpiece in the form of chips?": {
+        "correct": [
+            "Machining"
+        ],
+        "wrong": [
+            "Welding",
+            "Forming",
+            "Casting"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of polymer can be remelted and remolded?": {
+        "correct": [
+            "Thermoplastic"
+        ],
+        "wrong": [
+            "Thermosetting",
+            "Compressed plastic",
+            "Exotic plastic"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In injection molding, raw material is fed into a cavity from the hopper by _______.": {
+        "correct": [
+            "gravity"
+        ],
+        "wrong": [
+            "air pressure",
+            "hydro pressure",
+            "centrifugal force"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In plastic injection molding, the parting line is best located on the ________ of the part so that it is not noticeable.": {
+        "correct": [
+            "sharp corner"
+        ],
+        "wrong": [
+            "convex surface",
+            "concave surface",
+            "aesthetic edge"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What plastic manufacturing process is used to produce polypropylene sheets?": {
+        "correct": [
+            "Extrusion molding"
+        ],
+        "wrong": [
+            "Injection molding",
+            "Blow molding",
+            "Compression molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In lamination-type composites, interlaminar cracking is prevented by the filament ___________ process.": {
+        "correct": [
+            "braiding"
+        ],
+        "wrong": [
+            "winding",
+            "pultrusion",
+            "pressure bag molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________ is a process that can be used for plastics, metals, and ceramics alike.": {
+        "correct": [
+            "Injection molding"
+        ],
+        "wrong": [
+            "Pultrusion",
+            "Vulcanization",
+            "Chemical tempering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Roll bonding, explosive bonding, and diffusion bonding are processes used to fabricate _________.": {
+        "correct": [
+            "composites"
+        ],
+        "wrong": [
+            "plastics",
+            "elastomers",
+            "ceramics"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What types of fillers are used to impart desirable properties into plastics?": {
+        "correct": [
+            "Sawdust, glass fiber, cloth fibers and mica"
+        ],
+        "wrong": [
+            "Sawdust, brass and copper",
+            "Cloth fiber, carbon steel and mica",
+            "Silica, copper and mica"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Rubber or artificial elastomers can be bonded to _______.": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "fabric",
+            "metal",
+            "other elastomers"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The most common heat treatment applied to glass products before their manufacture is complete is __________.": {
+        "correct": [
+            "annealing"
+        ],
+        "wrong": [
+            "tempering",
+            "devitrification",
+            "quenching"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the location principle that is used to ensure that every part is located in the workholding device accurately?": {
+        "correct": [
+            "3 - 2 - 1 principle"
+        ],
+        "wrong": [
+            "a² - b² - c² principle",
+            "3 - 4 - 5 principle",
+            "x - y - z principle"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Whenever possible, jigs and fixtures should be designed so that the forces induced by the cutting process act to:": {
+        "correct": [
+            "Hold the workpiece in position"
+        ],
+        "wrong": [
+            "Cause the part to exit the workholder",
+            "Create more chips",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of chuck has the advantage of being able to be used on both non-metals and metals, and also provides easy variable force.": {
+        "correct": [
+            "Vacuum chuck"
+        ],
+        "wrong": [
+            "3-Jaw chuck",
+            "4-Jaw chuck",
+            "Magnetic chuck"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "A ________ jig is one of the simplest types of jig.": {
+        "correct": [
+            "plate"
+        ],
+        "wrong": [
+            "leaf",
+            "modular",
+            "vise"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "How many degrees of freedom must a workholder prevent?": {
+        "correct": [
+            "12"
+        ],
+        "wrong": [
+            "3",
+            "9",
+            "6"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of clamp comes in many forms and sizes and is simple low cost, and flexible?": {
+        "correct": [
+            "Strap clamp"
+        ],
+        "wrong": [
+            "Toggle clamp",
+            "Magnetic clamp",
+            "Vacuum clamp"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "One way to achieve rapid fixture exchange is to employ the ________ concept.": {
+        "correct": [
+            "intermediate jig"
+        ],
+        "wrong": [
+            "modular fixture",
+            "rollover jigs",
+            "Toyota-Nissan"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ of the work is closely related to the support of the work.": {
+        "correct": [
+            "Clamping"
+        ],
+        "wrong": [
+            "Locating",
+            "Machining",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A ________ is an example of a clamping method that can be operated with a single motion.": {
+        "correct": [
+            "cam latch"
+        ],
+        "wrong": [
+            "knurled clamping screw",
+            "vise",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a name of a jig?": {
+        "correct": [
+            "Book jig"
+        ],
+        "wrong": [
+            "Box jig",
+            "Leaf jig",
+            "Plate jig"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the purpose of electrode coatings during arc welding?": {
+        "correct": [
+            "All the above."
+        ],
+        "wrong": [
+            "To control the cooling of the weld joint.",
+            "To protect the hot molten metal from contamination.",
+            "To form a protective atmosphere that stabilizes the arc."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "To promote the formation of a better bond,__________can be used to clean the surfaces and remove contaminating oxide.": {
+        "correct": [
+            "fluxes"
+        ],
+        "wrong": [
+            "filler metal",
+            "orifice gas",
+            "oxygen"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In__________welding, molten material is produced and high temperatures accelerate the reactions between the metal and its surroundings.": {
+        "correct": [
+            "fusion"
+        ],
+        "wrong": [
+            "powder",
+            "soldering",
+            "solid-state"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In__________, the arc is maintained between a nonconsumable electrode and either the welding gun or workpiece.": {
+        "correct": [
+            "plasma arc welding (PAW)"
+        ],
+        "wrong": [
+            "shielded metal arc welding (SMAW)",
+            "percussion welding (PEW)",
+            "stud welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 1,
+            "times_seen": 1
+        }
+    },
+    "Which of the following is not a common welding process?": {
+        "correct": [
+            "Brazing"
+        ],
+        "wrong": [
+            "Friction welding",
+            "Flux-cored arc welding",
+            "Resistance spot welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a common type of weld defect?": {
+        "correct": [
+            "Flashing"
+        ],
+        "wrong": [
+            "Inclusions",
+            "Incomplete fusion",
+            "Incomplete penetration"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Laser and electron-beam equipment can now cut both metals and nonmetals with accuracies up to": {
+        "correct": [
+            "0.01 in."
+        ],
+        "wrong": [
+            "0.1 in",
+            "0.001 in.",
+            "0.0001 in."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________is a variation of forge welding that produces metallurgical bonds by means of room- temperature plastic deformation.": {
+        "correct": [
+            "Cold welding (CW)"
+        ],
+        "wrong": [
+            "Forge-seam welding",
+            "Inertia welding",
+            "Roll-welding (ROW)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In__________, heat and pressure are combined to induce coalescence of the materials.": {
+        "correct": [
+            "resistance welding"
+        ],
+        "wrong": [
+            "arc sputtering",
+            "plasma joining",
+            "tungsten welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Over 90% of all industrial welding is now performed with__________.": {
+        "correct": [
+            "arc welding"
+        ],
+        "wrong": [
+            "oxyfuel-gas welding",
+            "resistance welding",
+            "solid-state welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The ________ is the temperature of the liquid metal when it first enters the mold.": {
+        "correct": [
+            "pouring temperature"
+        ],
+        "wrong": [
+            "cooling rate",
+            "superheat",
+            "thermal arrest"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Live risers receive the ________ hot metal that enters the mold.": {
+        "correct": [
+            "last"
+        ],
+        "wrong": [
+            "first",
+            "top",
+            "bottom"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A small amount of ________ is often present at the parting line.": {
+        "correct": [
+            "flash"
+        ],
+        "wrong": [
+            "fillet",
+            "finish allowance",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The innermost part of a typical cast product is known as the": {
+        "correct": [
+            "equiaxed zone"
+        ],
+        "wrong": [
+            "chill zone",
+            "columnar zone",
+            "labyrinth zone"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Gating systems should be designed to minimize ________ which tends to promote absorption of gases, oxidation of the metal, and erosion of the mold.": {
+        "correct": [
+            "turbulent flow"
+        ],
+        "wrong": [
+            "laminar flow",
+            "sprue wells",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "______ exploit the properties of a liquid as it flows into and assumes the shape of a prepared container and then solidifies on cooling.": {
+        "correct": [
+            "Casting processes"
+        ],
+        "wrong": [
+            "Material removal processes",
+            "Deformation processes",
+            "Additive processes"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ exploit the ductility or plasticity of certain materials to produce the desired shape by moving or rearranging the solid.": {
+        "correct": [
+            "Deformation processes"
+        ],
+        "wrong": [
+            "Casting processes",
+            "Material removal processes",
+            "Additive processes"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the two parts of a flask in the sand casting process?": {
+        "correct": [
+            "A cope and drag"
+        ],
+        "wrong": [
+            "A drag and gate",
+            "A cope and runners",
+            "A sprue and riser"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A ________ is the top half of a horizontally parted mold.": {
+        "correct": [
+            "cope"
+        ],
+        "wrong": [
+            "drag",
+            "pattern",
+            "riser"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What does a mold cavity need to allow for in order to produce a casted part to the desired shape and size?": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "Allowance for shrinkage",
+            "Allowance for machining",
+            "Allowance for distortion"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of measurements can be performed with a vernier caliper?": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "Depth",
+            "External diameters or sizes",
+            "Internal diameters or sizes"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the purpose of a ratchet stop on a micrometer?": {
+        "correct": [
+            "It provides a consistent measuring pressure."
+        ],
+        "wrong": [
+            "It emits a sound when the micrometer is too tight.",
+            "It is for people with small fingers, so they can use the micrometer.",
+            "It torques the micrometer down to keep it from falling off the part."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "How far does the spindle move on a metric micrometer if it is rotated five full turns?": {
+        "correct": [
+            "2.5 mm"
+        ],
+        "wrong": [
+            "10 mm",
+            "5 mm",
+            "0.5 mm"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the manufacturing standard for linear measurement?": {
+        "correct": [
+            "Gauge blocks"
+        ],
+        "wrong": [
+            "ISO system",
+            "Imperial system",
+            "Micrometer"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The pattern material with the greatest longevity below is": {
+        "correct": [
+            "epoxy"
+        ],
+        "wrong": [
+            "hard wood",
+            "soft wood",
+            "wax"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the purpose of a riser in a sand mold?": {
+        "correct": [
+            "To ensure the mold cavity is filled."
+        ],
+        "wrong": [
+            "To deliver the metal to only one section of the mold cavity.",
+            "To pour the metal into the sand mold.",
+            "To minimize turbulent flow."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A ________ is the bottom half of a horizontally parted mold.": {
+        "correct": [
+            "drag"
+        ],
+        "wrong": [
+            "cope",
+            "pattern",
+            "riser"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following are expendable mold casting processes?": {
+        "correct": [
+            "Sand casting, shell casting, and investment casting"
+        ],
+        "wrong": [
+            "Die casting, investment casting and lost foam casting",
+            "Sand casting, shell casting, and die casting",
+            "Sand casting, shell casting and permanent mold casting"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The outermost part of a typical cast product is known as the": {
+        "correct": [
+            "chill zone"
+        ],
+        "wrong": [
+            "columnar zone",
+            "equiaxed zone",
+            "labyrinth zone"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not an effective method for removing dissolved gas from molten metal?": {
+        "correct": [
+            "Gas porosity"
+        ],
+        "wrong": [
+            "Gas flushing",
+            "Ultrasonic vibrations",
+            "Vacuum degassing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 1,
+            "times_seen": 1
+        }
+    },
+    "A ________ is an additional void in the mold that also fills with molten metal.": {
+        "correct": [
+            "riser"
+        ],
+        "wrong": [
+            "cope",
+            "drag",
+            "pattern"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Sand cores can be used in high pressure die casting.": {
+        "correct": [
+            "False",
+            "chill zone"
+        ],
+        "wrong": [
+            "True",
+            "The outermost part of a typical cast product is known as the",
+            "columnar zone",
+            "equiaxed zone",
+            "labyrinth zone"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What material is used for investment casting patterns?": {
+        "correct": [
+            "Wax"
+        ],
+        "wrong": [
+            "Aluminum",
+            "Steel",
+            "Wood"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following describes a manufacturing system?": {
+        "correct": [
+            "A collection of operations and processes that produce a desired product or component."
+        ],
+        "wrong": [
+            "The total company including people, money, equipment, materials, supplies, marketing and management.",
+            "Converting unfinished materials to finished products using cutting tools and machining processes.",
+            "A set of skilled workers who are able to operate lathes."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of work is a job shop best suited for?": {
+        "correct": [
+            "Small lot production"
+        ],
+        "wrong": [
+            "Non-specialized vehicles",
+            "Processing liquid and gases",
+            "Immobile projects"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the four basic manufacturing processes used to add value to a product?": {
+        "correct": [
+            "Casting, Machining, Forming, and Joining"
+        ],
+        "wrong": [
+            "Design, Prototype, Machining, Inspection",
+            "Design, Production, Manufacturing, and Marketing",
+            "Systems, Structure, Strategies, and Sales"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following manufacturing systems would be used to produce bridges and large airplanes?": {
+        "correct": [
+            "Project shop"
+        ],
+        "wrong": [
+            "Job shop",
+            "Flow shop",
+            "Linked cell system"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the two terms that represent the organized activities that convert raw materials into salable goods?": {
+        "correct": [
+            "Assembly",
+            "Manufacturing"
+        ],
+        "wrong": [
+            "Design",
+            "Engineering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following groups of engineers are associated with manufacturing?": {
+        "correct": [
+            "Design engineer, manufacturing engineer, lean engineer, material engineer"
+        ],
+        "wrong": [
+            "Design engineer, service engineer, lean engineer, materials engineer",
+            "Design engineer, service engineer, manufacturing engineer, material engineer",
+            "Manufacturing engineer, service engineer, lean engineer, materials engineer"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following manufacturing systems would an oil refinery use?": {
+        "correct": [
+            "A continuous process system"
+        ],
+        "wrong": [
+            "A project shop",
+            "A flow shop",
+            "A linked cell system"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not true for coil-coated sheets?": {
+        "correct": [
+            "After rolling and coiling, the coils are dipped into solutions to form the coating."
+        ],
+        "wrong": [
+            "Coated surfaces must be protected during subsequent fabrication.",
+            "Both sides of the sheet metal can be coated.",
+            "Both paints and various metal coatings and platings can be applied."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "Which of the following burr removal methods provides the highest quality surface finish?": {
+        "correct": [
+            "Ultrasonic deburring"
+        ],
+        "wrong": [
+            "Barrel tumbling",
+            "Power sanding",
+            "Vibratory deburring"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is basically the \"soap and water\" approach to parts cleaning and is a commonly used method for removing a wide variety of soils including oils, grease, wax, fine particles of metal, and dirt.": {
+        "correct": [
+            "Alkaline cleaning"
+        ],
+        "wrong": [
+            "Acid pickling",
+            "Solvent cleaning",
+            "Vapor degreasing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ can increase the hardness in the surface and introduce a residual compressive stress.": {
+        "correct": [
+            "Shot peening"
+        ],
+        "wrong": [
+            "Electro-discharge machining (EDM)",
+            "Welding",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, the bulk of the work is done by the kinetic energy of the impacting media.": {
+        "correct": [
+            "blast cleaning"
+        ],
+        "wrong": [
+            "tumbling",
+            "vibratory finishing",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What process is used to stack gauge blocks?": {
+        "correct": [
+            "Wringing"
+        ],
+        "wrong": [
+            "Locking",
+            "Adhesive",
+            "Fasteners"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the two main methods of inspections?": {
+        "correct": [
+            "Attributes and variables"
+        ],
+        "wrong": [
+            "Variables and discrete",
+            "Discrete and integral",
+            "Integral and attributes"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "All of the following processes can be performed on thermosetting plastics except _________.": {
+        "correct": [
+            "thermoforming"
+        ],
+        "wrong": [
+            "reaction injection molding",
+            "compression molding",
+            "transfer molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of polymer cannot be remelted and remolded?": {
+        "correct": [
+            "Thermosetting"
+        ],
+        "wrong": [
+            "Compressed plastic",
+            "Exotic plastic",
+            "Thermoplastic"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following statements is correct?": {
+        "correct": [
+            "Thermoplastic polymers can be heated to produce a soft, formable solid or liquid. For thermosetting polymers, once polymerization has occurred no further deformation is possible."
+        ],
+        "wrong": [
+            "Thermosetting polymers can be heated to produce a soft, formable solid or liquid. For thermoplastic polymers, once polymerization has occurred no further deformation is possible."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "This is a fabrication process for fiber-reinforced composite to produce long uniform cross-section products by pulling the fiber through a resin bath and heated die:": {
+        "correct": [
+            "Pultrusion"
+        ],
+        "wrong": [
+            "Resin transfer molding",
+            "Filament winding",
+            "Lamination"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What process is used to produce pop bottles and milk jugs?": {
+        "correct": [
+            "Blow molding"
+        ],
+        "wrong": [
+            "Injection molding",
+            "Casting",
+            "Extrusion molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The laser sintering process can be employed to produce ________.": {
+        "correct": [
+            "ceramic tools"
+        ],
+        "wrong": [
+            "plastic pipes",
+            "rubber tires",
+            "fiber-reinforced composite panels"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "This process joins a number of dissimilar metals (even ceramics) to fabricate a laminar composite:": {
+        "correct": [
+            "Diffusion bonding"
+        ],
+        "wrong": [
+            "Roll bonding",
+            "Explosive bonding",
+            "Injection molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following are processes used to weld plastics?": {
+        "correct": [
+            "Ultrasonic and friction welding"
+        ],
+        "wrong": [
+            "None of the above",
+            "Arc and spot welding",
+            "Brazing and soldering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the two primary functions of a workholder?": {
+        "correct": [
+            "Locating and clamping"
+        ],
+        "wrong": [
+            "Ergonomics and safety",
+            "Flexibility and cost",
+            "Rotating and drilling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The loading and unloading time plus the machining time are together called the ________.": {
+        "correct": [
+            "run time"
+        ],
+        "wrong": [
+            "fixture time",
+            "jig time",
+            "stop time"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "An essential element to a setup time reduction program is to ________.": {
+        "correct": [
+            "shift internal elements to external elements, reducing downtime"
+        ],
+        "wrong": [
+            "automate all operations",
+            "increase quality of tooling",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ fixtures have the same design criteria as conventional fixtures, but also versatility.": {
+        "correct": [
+            "Modular"
+        ],
+        "wrong": [
+            "Leaf",
+            "Plate",
+            "Vise"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The base element of possibly the most common fixture is the ________.": {
+        "correct": [
+            "vise"
+        ],
+        "wrong": [
+            "leaf",
+            "channel",
+            "plate"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Jigs and fixtures should be designed so that chips:": {
+        "correct": [
+            "Collect away from the locating and supporting surfaces"
+        ],
+        "wrong": [
+            "Are trapped between the workpiece and workholder",
+            "Do not accumulate at all",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "This method of linking independent and dependent variables often employs features which can differ significantly from actual production.": {
+        "correct": [
+            "Experiment"
+        ],
+        "wrong": [
+            "Experience",
+            "Process modeling",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In the ________ process, metal is compressed and forced to flow through a shaped die to form a product with reduced but constant cross section.": {
+        "correct": [
+            "extrusion"
+        ],
+        "wrong": [
+            "drawing",
+            "swaging",
+            "upset forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ can be used to produce sheet, strip, bar, and rod products with extremely smooth surfaces and accurate dimensions.": {
+        "correct": [
+            "Cold rolling"
+        ],
+        "wrong": [
+            "Forging",
+            "Hot rolling",
+            "Ring rolling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In the ________, continuous feedstock is inserted into a grooved wheel and is driven by surface friction into a chamber where it eventually exits under sufficient pressure.": {
+        "correct": [
+            "conform process"
+        ],
+        "wrong": [
+            "direct extrusion",
+            "hydrostatic extrusion",
+            "indirect extrusion"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the mechanical cutting of materials without the formation of chips or the use of burning or melting.": {
+        "correct": [
+            "Shearing"
+        ],
+        "wrong": [
+            "Bending",
+            "Drawing",
+            "Forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is used to shape hollow parts with a solid bottom.": {
+        "correct": [
+            "Backward extrusion"
+        ],
+        "wrong": [
+            "Cold heading",
+            "Forward extrusion",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ refers to a family of operations where plastic flow occurs over a curved axis, and a flat sheet is formed into a recessed, three-dimensional part with a depth more than several times the thickness of the metal.": {
+        "correct": [
+            "Drawing"
+        ],
+        "wrong": [
+            "Bending",
+            "Forging",
+            "Shearing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When cold working, the strength levels induced by ________ are often comparable to those produced by the strengthening heat treatments.": {
+        "correct": [
+            "strain hardening"
+        ],
+        "wrong": [
+            "flow structure",
+            "isotropy",
+            "Luders bands"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The study of friction and lubrication is known as ________.": {
+        "correct": [
+            "tribology"
+        ],
+        "wrong": [
+            "hydrodynamics",
+            "process modeling",
+            "wear"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When the two pieces being spot welded are of the same thickness, the practical limit for spot welding is a sheet thickness of__________.": {
+        "correct": [
+            "1/8 in"
+        ],
+        "wrong": [
+            "1/4 in",
+            "1/2 in",
+            "3/4 in"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "What is the primary purpose of the outer zone of an oxyacetylene welding flame?": {
+        "correct": [
+            "It prevents oxidation."
+        ],
+        "wrong": [
+            "It controls coalescence.",
+            "It controls the depth of fusion.",
+            "It melts the base material."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of shielding gas is not used in the gas metal arc welding process?": {
+        "correct": [
+            "Acetylene"
+        ],
+        "wrong": [
+            "Argon",
+            "Carbon dioxide",
+            "Helium"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a fuel gas?": {
+        "correct": [
+            "Oxygen"
+        ],
+        "wrong": [
+            "Acetylene",
+            "Methyl-acetylene-propadiene (MAPP)",
+            "Propane"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "__________is the oldest solid-state welding process.": {
+        "correct": [
+            "Forge welding (FOW)"
+        ],
+        "wrong": [
+            "Friction welding (FRW)",
+            "Linear friction welding (LFW)",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________is the dominant method of joining in manufacturing?": {
+        "correct": [
+            "Welding"
+        ],
+        "wrong": [
+            "Brazing",
+            "Discrete fastening",
+            "Soldering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________is a problem that occurs in brazing and soldering due to the sometimes very different properties of the welded material and filler.": {
+        "correct": [
+            "Intermetallic compounds"
+        ],
+        "wrong": [
+            "Heat-affected zone",
+            "Distortion",
+            "Stress-relief"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following joining methods is resistance welding?": {
+        "correct": [
+            "Spot welding"
+        ],
+        "wrong": [
+            "Oxy-fuel welding",
+            "Laser welding",
+            "Arc welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What process can be used to reduce the effects of the heat affected zone?": {
+        "correct": [
+            "Heat treatment"
+        ],
+        "wrong": [
+            "Coalescence",
+            "Shot peening",
+            "Quenching"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of drill prior to regular drilling to ensure that a hole is started accurately?": {
+        "correct": [
+            "Center drill"
+        ],
+        "wrong": [
+            "Taper drill",
+            "Twist drill",
+            "Fractional drill"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is an operation by which one section of a workpiece is severed from the remainder by means of a cut-off tool.": {
+        "correct": [
+            "Parting"
+        ],
+        "wrong": [
+            "Boring",
+            "Facing",
+            "Turning"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is an example of a single-point tool process.": {
+        "correct": [
+            "Turning"
+        ],
+        "wrong": [
+            "Drilling",
+            "Slab milling",
+            "Face milling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In up milling, the thickness of the chip is maximized when ________.": {
+        "correct": [
+            "the tooth leaves the work"
+        ],
+        "wrong": [
+            "the tooth contacts the work",
+            "Either a or b, depending on the cutter",
+            "Either a or b, depending on the material"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What machining operation is performed on external cylindrical and conical surfaces?": {
+        "correct": [
+            "Turning"
+        ],
+        "wrong": [
+            "Boring",
+            "Facing",
+            "Drilling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is the most common hole-making process?": {
+        "correct": [
+            "Drilling"
+        ],
+        "wrong": [
+            "Punching",
+            "Milling",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the spiral or helical grooves called on a drill?": {
+        "correct": [
+            "Flutes"
+        ],
+        "wrong": [
+            "Margin",
+            "Point",
+            "Shank"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When machining, as the speed increases, so does ___________.": {
+        "correct": [
+            "metal removal rate"
+        ],
+        "wrong": [
+            "chip size",
+            "cooling",
+            "feed"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a component of an engine lathe?": {
+        "correct": [
+            "Frame"
+        ],
+        "wrong": [
+            "Bed",
+            "Tailstock",
+            "Gearbox"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What lathe process produces a flat surface at a right angle to the spindle axis?": {
+        "correct": [
+            "Facing"
+        ],
+        "wrong": [
+            "Grooving",
+            "Turning",
+            "Forming"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In turning operations, \"DOC\" is understood to stand for:": {
+        "correct": [
+            "Depth-Of-Cut"
+        ],
+        "wrong": [
+            "Dog-On-Center",
+            "Depth-Of-Chuck",
+            "Diameter-Outside-Center"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ provides an enlarged cylindrical hole with a flat bottom so that a bolt head, or a nut, will have a smooth bearing surface that is normal to the axis of the hole.": {
+        "correct": [
+            "Counterboring"
+        ],
+        "wrong": [
+            "Reaming",
+            "Spot facing",
+            "Countersinking"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "What turning operation cuts off a section of material from the remaining workpiece?": {
+        "correct": [
+            "Parting"
+        ],
+        "wrong": [
+            "Taper turning",
+            "Knurling",
+            "Turning"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is another word for down milling.": {
+        "correct": [
+            "Climb milling"
+        ],
+        "wrong": [
+            "End milling",
+            "Form milling",
+            "Gang milling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What three factors does metal removal rate depend on?": {
+        "correct": [
+            "Speed, Feedrate, Depth of Cut"
+        ],
+        "wrong": [
+            "Feedrate, Width of Cut, Tool material",
+            "Depth of Cut, Width of Cut, Surface Speed",
+            "Feedrate, Horsepower, Insert Material"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the term defined as the \"permissible variation from a part's nominal size\"?": {
+        "correct": [
+            "Tolerance"
+        ],
+        "wrong": [
+            "Basic dimension",
+            "Allowance",
+            "Nominal size"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the four main parts of a combination set?": {
+        "correct": [
+            "Rule, center head, protractor head, and a square head"
+        ],
+        "wrong": [
+            "Center punch, prick punch, drill, and tap",
+            "A combination of parts required for layout operations",
+            "Wrench, square, drill, and a center punch"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Cardboard is an example of _______.": {
+        "correct": [
+            "sandwich structure"
+        ],
+        "wrong": [
+            "explosive bonding",
+            "roll bonding",
+            "vacuum infiltration"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The resin transfer molding process can be used to produce ___________.": {
+        "correct": [
+            "fiber-reinforced composite panels"
+        ],
+        "wrong": [
+            "ceramic tools",
+            "rubber tires",
+            "plastic pipes"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of polymer is generally used in blow molding?": {
+        "correct": [
+            "Thermoplastic"
+        ],
+        "wrong": [
+            "All types of plastics",
+            "Exotic plastic",
+            "Thermosetting"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is/are a type of ceramic?": {
+        "correct": [
+            "Both a and b"
+        ],
+        "wrong": [
+            "Glasses",
+            "Crystalline ceramics",
+            "Elastomers"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Relatively thin elastomer parts with uniform wall thickness, such as boots and gloves, are often made by some form of __________.": {
+        "correct": [
+            "dipping"
+        ],
+        "wrong": [
+            "blow molding",
+            "compounding",
+            "extruding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In plastic molding, _____________ helps facilitate part removal from the mold.": {
+        "correct": [
+            "an unidirectional taper"
+        ],
+        "wrong": [
+            "a smooth mold surface",
+            "a rough mold surface",
+            "undercuts"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Vulcanization or cross-linking is a critical step in _________ processing.": {
+        "correct": [
+            "rubber"
+        ],
+        "wrong": [
+            "plastic",
+            "ceramics",
+            "composite"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the most common abrasive machining process?": {
+        "correct": [
+            "Grinding"
+        ],
+        "wrong": [
+            "Turning",
+            "Milling",
+            "Sawing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ always involves enlarging an existing hole.": {
+        "correct": [
+            "Boring"
+        ],
+        "wrong": [
+            "Turning",
+            "Drilling",
+            "Milling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What operations produce clearance for flat head screws and cap screws?": {
+        "correct": [
+            "Countersink and Counterbore"
+        ],
+        "wrong": [
+            "Facing and Boring",
+            "Drilling and Reaming",
+            "Milling and Turning"
+        ],
+        "stats": {
+            "right": 1,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "What is the four-step sequence of operations that is used to produce a hole a hole that is accurate and aligned.": {
+        "correct": [
+            "Center drilling, Drilling, Boring, Reaming"
+        ],
+        "wrong": [
+            "Milling, Turning, Drilling, Boring",
+            "Drilling, Boring, Center drilling, Shaping",
+            "Reaming, Milling, Drilling, Center drilling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the process of machining external cylindrical and conical faces.": {
+        "correct": [
+            "Turning"
+        ],
+        "wrong": [
+            "Boring",
+            "Drilling",
+            "Milling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What material cannot be cut by a diamond cutting tool?": {
+        "correct": [
+            "Ferrous materials"
+        ],
+        "wrong": [
+            "Non-ferrous materials",
+            "Composite materials",
+            "Plastic materials"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is an advantage of modular fixtures?": {
+        "correct": [
+            "Can be used on a variety of parts."
+        ],
+        "wrong": [
+            "High skill level required to build the fixture.",
+            "Used only on specific parts.",
+            "Original cost is high."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "What type of chuck is used on ferrous material only?": {
+        "correct": [
+            "Magnetic chuck"
+        ],
+        "wrong": [
+            "Vacuum chuck",
+            "3-Jaw chuck",
+            "4-Jaw chuck"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "The ________ means that a workpiece is located with respect to three perpendicular planes.": {
+        "correct": [
+            "3-2-1 principle"
+        ],
+        "wrong": [
+            "datum surface",
+            "fixture reference",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Welded assemblies that are to undergo subsequent machining are frequently given a__________": {
+        "correct": [
+            "stress-relief"
+        ],
+        "wrong": [
+            "treatment prior to that operation.",
+            "peening",
+            "distortion",
+            "intermetallic compound"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________occur(s) when the pool of weld metal comes from the parent plate alone.": {
+        "correct": [
+            "Autogenous welding"
+        ],
+        "wrong": [
+            "Distortion",
+            "Intermetallic compounds",
+            "Stress-relief"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A__________joint is when one plate overlaps another.": {
+        "correct": [
+            "lap"
+        ],
+        "wrong": [
+            "butt",
+            "edge",
+            "tee"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A weld bead between two plates that is complete on the top but does not reach a sufficient depth all the way to the other side is an example of__________.": {
+        "correct": [
+            "incomplete penetration"
+        ],
+        "wrong": [
+            "flashing",
+            "inclusions",
+            "incomplete fusion"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In one form of this process, sheet materials are joined by a series of overlapping spot welds.": {
+        "correct": [
+            "Resistance seam welding (RSEW)"
+        ],
+        "wrong": [
+            "Projection welding",
+            "Resistance butt welding",
+            "Resistance spot welding (RSW)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "What type of mechanical fastener is a screw or bolt classified as?": {
+        "correct": [
+            "Discrete fastener"
+        ],
+        "wrong": [
+            "Shrink fastener",
+            "Integral fastener",
+            "Neurotic fastener"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the melting temperature of the filler rods in the brazing process?": {
+        "correct": [
+            "Above 450ºC (840º F)"
+        ],
+        "wrong": [
+            "Between 350ºC and 450ºC (740º F and 840º F)",
+            "Below 350ºC (740º F)",
+            "Below 450ºC (840º F)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A high-quality weld requires__________.": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "a source of satisfactory heat and/or pressure",
+            "a means of cleaning the metals to be joined",
+            "caution to compensate for harmful metallurgical effects"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In addition to the changes in mechanical properties, ________ deformation speeds tend to promote improved lubricant efficiency.": {
+        "correct": [
+            "faster"
+        ],
+        "wrong": [
+            "slower",
+            "speed-sensitive",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "An elusive variable in process modeling is the ________ between the tool and the workpiece.": {
+        "correct": [
+            "friction"
+        ],
+        "wrong": [
+            "constitutive relations",
+            "modeling dynamics",
+            "speed sensitivity"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ subjects material to a series of reverse bends in order to flatten the sheet.": {
+        "correct": [
+            "Roller leveling"
+        ],
+        "wrong": [
+            "Stretcher leveling",
+            "Tension leveling",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is a family of processes in which slugs of material are squeezed into or extruded from shaped die cavities to produce finished parts of precise shape and size.": {
+        "correct": [
+            "Cold forming"
+        ],
+        "wrong": [
+            "Extrusion",
+            "Flanging",
+            "Forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is a term applied to a family of processes that induce plastic deformation through localized compressive forces applied through the squeezing of dies.": {
+        "correct": [
+            "Forging"
+        ],
+        "wrong": [
+            "Cold rolling",
+            "Hot rolling",
+            "Ring rolling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is defined as the plastic deformation of metals at a temperature above the recrystallization temperature but below the melting point.": {
+        "correct": [
+            "Hot working"
+        ],
+        "wrong": [
+            "Flow structure",
+            "Strain hardening",
+            "Warm working"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a basic component of a piercing and blanking machine?": {
+        "correct": [
+            "Mandrel"
+        ],
+        "wrong": [
+            "Die",
+            "Punch",
+            "Stripper plate"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is a bending operation that can be used to join the ends of sheet metal in some form of mechanical interlock.": {
+        "correct": [
+            "Seaming"
+        ],
+        "wrong": [
+            "Flanging",
+            "Lancing",
+            "Roll forming"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ involve the deformation of a material where the thickness and surface area remain relatively constant.": {
+        "correct": [
+            "Sheet-forming"
+        ],
+        "wrong": [
+            "Bulk deformation",
+            "Ironworking",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Who is responsible for the proper selection of the material used to create a product?": {
+        "correct": [
+            "The design engineer"
+        ],
+        "wrong": [
+            "The process operator",
+            "The customer",
+            "The supplier"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The ________ is the plateau in the cooling curve that occurs during the solidification of a material with fixed melting point.": {
+        "correct": [
+            "thermal arrest"
+        ],
+        "wrong": [
+            "cooling rate",
+            "pouring temperature",
+            "superheat"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Highly directional properties are most likely to occur within the": {
+        "correct": [
+            "columnar zone"
+        ],
+        "wrong": [
+            "chill zone",
+            "equiaxed zone",
+            "labyrinth zone"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "With ________, the removal of a complex cast shape may be a major design problem.": {
+        "correct": [
+            "multiple-use molds"
+        ],
+        "wrong": [
+            "single-use molds",
+            "additive processes",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a recognized deposition coating?": {
+        "correct": [
+            "Hydrodeposition"
+        ],
+        "wrong": [
+            "Chemical vapor deposition",
+            "Electrodeposition",
+            "Physical vapor deposition"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following burr removal methods causes the highest amount of stock (material) loss?": {
+        "correct": [
+            "Power sanding"
+        ],
+        "wrong": [
+            "Barrel tumbling",
+            "Ultrasonic deburring",
+            "Vibratory deburring"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, the resulting surface consists of a series of uniform curved scratches.": {
+        "correct": [
+            "wire brushing"
+        ],
+        "wrong": [
+            "belt sanding",
+            "buffing",
+            "electropolishing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Thermoset polymers are significantly stronger and more rigid than thermoplastic polymers.": {
+        "correct": [
+            "True",
+            "False"
+        ],
+        "wrong": [],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following are desirable properties of plastic products?": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "Low thermal conductivity and electrical resistance",
+            "Low cost and formability",
+            "Unlimited color range and light weight",
+            "Corrosion resistance"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Cracks typically do not travel through a welded joint.": {
+        "correct": [
+            "False"
+        ],
+        "wrong": [
+            "True"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Glass is generally shaped at elevated _________ where the viscosity can be controlled.": {
+        "correct": [
+            "temperatures"
+        ],
+        "wrong": [
+            "pressures",
+            "humidity",
+            "All of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The main limitation of transfer molding is _______.": {
+        "correct": [
+            "loss of material"
+        ],
+        "wrong": [
+            "corrosive bubbles",
+            "unfilled section",
+            "burn marks"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "Which plastic fabrication process should ideally be used to manufacture the products shown below?": {
+        "correct": [
+            "Extrusion"
+        ],
+        "wrong": [
+            "Casting",
+            "Blow molding",
+            "Injection molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is an advantage of an additive agent (filler) used in plastics?": {
+        "correct": [
+            "Reduces the cost of plastic products."
+        ],
+        "wrong": [
+            "Reduces the strength of plastic products.",
+            "Does not change the color of plastic products.",
+            "Reduces the moldability of plastic products."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "For plastics, ceramics, and elastomers, all but which of the following operations can often be eliminated?": {
+        "correct": [
+            "Forming"
+        ],
+        "wrong": [
+            "Machining",
+            "Joining",
+            "Finishing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the difference between the main scale on an outside micrometer and the main scale on a depth micrometer?": {
+        "correct": [
+            "The main scale on the depth micrometer runs opposite to the outside micrometer."
+        ],
+        "wrong": [
+            "The main scale on the outside micrometer is not adjustable.",
+            "The main scale on the outside micrometer is in millimeters.",
+            "There is no difference."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What does a flexible manufacturing system (FMS) produce?": {
+        "correct": [
+            "A family of parts"
+        ],
+        "wrong": [
+            "A broad range of parts",
+            "Spring parts",
+            "Prototype work"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The manufacturing system design can be identified as a:": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "Flow Shop",
+            "Continuous process",
+            "Job Shop"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the shape of the mold cavity made with in a sand mold?": {
+        "correct": [
+            "Pattern"
+        ],
+        "wrong": [
+            "Core",
+            "Riser",
+            "Gate"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The network of connected channels used to deliver the molten metal to the mold cavity is known as the ________.": {
+        "correct": [
+            "gating system"
+        ],
+        "wrong": [
+            "pouring cup",
+            "parting line",
+            "vent system"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "______ is done after drilling for improving surface finish.": {
+        "correct": [
+            "Reaming"
+        ],
+        "wrong": [
+            "Boring",
+            "Tapping",
+            "Center-drilling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What two dimensions are used to designate the size of a lathe?": {
+        "correct": [
+            "Swing, Maximum distance between centers"
+        ],
+        "wrong": [
+            "Weight, Height",
+            "Chuck Size, Horsepower",
+            "Maximum distance between centers, tool size"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What basic chip formation process uses teeth arranged in a narrow line to produce chips?": {
+        "correct": [
+            "Sawing"
+        ],
+        "wrong": [
+            "Milling",
+            "Turning",
+            "Grinding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the 7 basic chip formation processes?": {
+        "correct": [
+            "Turning, Milling, Drilling, Sawing, Broaching, Shaping, Grinding"
+        ],
+        "wrong": [
+            "Welding, Soldering, Gluing, Riveting, Fastening, Brazing, Clamping",
+            "Injection molding, Thermoforming, Rotational Casting, Ultrasonic Welding,",
+            "Turning, Facing, End milling, Centerless Grinding, Sawing, Boring, Planing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the term used for the small sharp edges formed by cutting, punching, or grinding?": {
+        "correct": [
+            "Burrs"
+        ],
+        "wrong": [
+            "Chamfers",
+            "Cuts",
+            "Crests"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the term used to designate the direction of the predominant surface pattern produced by the machining process.": {
+        "correct": [
+            "Lay"
+        ],
+        "wrong": [
+            "Roughness",
+            "Surface finish",
+            "Waviness"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a physical vapor deposition process?": {
+        "correct": [
+            "Nitriding"
+        ],
+        "wrong": [
+            "Ion plating",
+            "Sputtering",
+            "Vacuum metallizing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________are another name for joining.": {
+        "correct": [
+            "Consolidation processes"
+        ],
+        "wrong": [
+            "Machining processes",
+            "Peening processes",
+            "Stress relief"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "At the highest currents and voltages, the mode of metal deposition in gas-metal arc welding becomes__________.": {
+        "correct": [
+            "spray transfer"
+        ],
+        "wrong": [
+            "preferred transfer",
+            "short-circuit transfer",
+            "globular transfer"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________is an arc-welding process used to attach fasteners to a metal surface.": {
+        "correct": [
+            "Stud welding"
+        ],
+        "wrong": [
+            "Shielded metal arc welding (SMAW)",
+            "Percussion welding (PEW)",
+            "Plasma arc welding (PAW)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is used in resistance welding?": {
+        "correct": [
+            "Heat and pressure"
+        ],
+        "wrong": [
+            "No heat and no pressure",
+            "Heat and no pressure",
+            "Pressure and no heat"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When welding with oxygen and acetylene, a ratio of 1.5:1 oxygen to acetylene produces a(n) __________flame.": {
+        "correct": [
+            "oxidizing"
+        ],
+        "wrong": [
+            "carburizing",
+            "neutral",
+            "no reaction"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In__________, a nonconsumable welding tool containing a shoulder and tapered probe is rotated at several hundred rpm; it is then lowered into the interface between two pieces of material and frictional heat is generated to weld the pieces as it moves.": {
+        "correct": [
+            "friction-stir welding (FSW)"
+        ],
+        "wrong": [
+            "friction welding (FRW)",
+            "forge welding (FOW)",
+            "linear friction welding (LFW)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Welded structures may exhibit brittle behavior at__________temperatures than smaller specimens.": {
+        "correct": [
+            "higher"
+        ],
+        "wrong": [
+            "lower",
+            "about the same",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following welding process used a coated electrode?": {
+        "correct": [
+            "Shielded metal arc welding (SMAW)"
+        ],
+        "wrong": [
+            "Sub-arc Welding (SAW)",
+            "Gas metal arc welding (GMAW)",
+            "Gas tungsten arc welding (GTAW)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The__________of a material measures its ability to be joined.": {
+        "correct": [
+            "weldability"
+        ],
+        "wrong": [
+            "fusion factor",
+            "heat-affected zone",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is a solid-state welding process?": {
+        "correct": [
+            "Forge welding"
+        ],
+        "wrong": [
+            "Arc welding",
+            "Laser welding",
+            "Oxy-fuel welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the mechanical working of surfaces by repeated blows of impelled shot or a round-nose tool.": {
+        "correct": [
+            "Peening"
+        ],
+        "wrong": [
+            "Burnishing",
+            "Flow forming",
+            "Staking"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, the workpiece is clamped against a bending form and the entire assembly is rotated to move the workpiece along a stationary pressure tool.": {
+        "correct": [
+            "draw bending"
+        ],
+        "wrong": [
+            "compression bending",
+            "press bending",
+            "roll bending"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ uses external hammering to reduce the diameter or produce tapers or points on round bars or tubes.": {
+        "correct": [
+            "Swaging"
+        ],
+        "wrong": [
+            "Continuous extrusion",
+            "Drawing",
+            "Upset forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In the process known as ________, precise control of the inner diameter is sacrificed in exchange for process simplicity and the ability to draw long lengths of product.": {
+        "correct": [
+            "tube sinking"
+        ],
+        "wrong": [
+            "bar drawing",
+            "floating plug",
+            "spider mandrel drawing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 1,
+            "times_seen": 1
+        }
+    },
+    "What force/forces is/are the material subjected to during the bending process?": {
+        "correct": [
+            "Compressive and tensile forces"
+        ],
+        "wrong": [
+            "Ductile force",
+            "Tensile force only",
+            "Compressive force only"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not an important characterization of the material being deformed?": {
+        "correct": [
+            "Density"
+        ],
+        "wrong": [
+            "Chemical reactivity",
+            "Strain-hardening",
+            "Strength"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is a disadvantage of hot forming?": {
+        "correct": [
+            "The cost to heat the metal."
+        ],
+        "wrong": [
+            "The reduction of impact strength when compared to casting.",
+            "The strain hardening that occurs within the metal.",
+            "The increased force required to punch a hole."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ refers to holding or maintaining the part in location during the cutting process.": {
+        "correct": [
+            "Clamping"
+        ],
+        "wrong": [
+            "Locating",
+            "Machining",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A jig is a special workholding device that, through built-in features, determines ________ that are produced by machining or fastening operations.": {
+        "correct": [
+            "location dimensions"
+        ],
+        "wrong": [
+            "material properties",
+            "size dimensions",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the five main components of a lathe?": {
+        "correct": [
+            "Bed, Headstock, Tailstock, Carriage, Quick change gear box"
+        ],
+        "wrong": [
+            "Saddle, Spindle, Cross-Slide, Y axis, Quill",
+            "Chuck, Tailstock, Bed, Drilling Chuck, Vice",
+            "Apron, Knee, Headstock, Four Jaw Chuck , Compound rest"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What lathe process produces an external cylindrical surface?": {
+        "correct": [
+            "Parallel turning"
+        ],
+        "wrong": [
+            "Boring",
+            "Parting",
+            "Reaming"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "________ describes the volumetric amount of material removed per pass of the machining tool.": {
+        "correct": [
+            "Material removal rate"
+        ],
+        "wrong": [
+            "Speed",
+            "Feed",
+            "Depth-of-cut"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following plastic molding processes starts from a preform made from another molding process?": {
+        "correct": [
+            "Blow molding"
+        ],
+        "wrong": [
+            "Injection molding",
+            "Rotational molding",
+            "Foam molding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following processes is used to produce a hollow seamless plastic product that has to be of uniform thickness?": {
+        "correct": [
+            "Rotational molding"
+        ],
+        "wrong": [
+            "Injection molding",
+            "Blow molding",
+            "Extrusion"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The following materials can be thermoformed:": {
+        "correct": [
+            "Thermoplastics"
+        ],
+        "wrong": [
+            "Thermosets",
+            "Elastomers",
+            "Both a and b"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "While technology not the result of a surface finishing process, ________ can be used to impart a number of desirable properties such as concealing smudges, enhancing grip, or modifying acoustic properties of a material.": {
+        "correct": [
+            "textured surfaces"
+        ],
+        "wrong": [
+            "burnishing",
+            "electroplating",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is a mechanical finishing process?": {
+        "correct": [
+            "All of the above"
+        ],
+        "wrong": [
+            "Tumbling or barrel finishing",
+            "Vibratory finishing",
+            "Buffing and wire brushing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is the most common type of consolidation?": {
+        "correct": [
+            "Welding"
+        ],
+        "wrong": [
+            "Adhesives",
+            "Fasteners",
+            "Soldering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following joining processes work by melting the base metals?": {
+        "correct": [
+            "Welding"
+        ],
+        "wrong": [
+            "Adhesives",
+            "Soldering",
+            "Brazing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The temperature achieved during resistance welding is primarily determined by the magnitude and duration of the__________.": {
+        "correct": [
+            "welding current"
+        ],
+        "wrong": [
+            "diffusion bonding",
+            "flash",
+            "pressure application"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________processes create joints without any melting of the workpiece or filler material.": {
+        "correct": [
+            "Solid-state"
+        ],
+        "wrong": [
+            "Brazing",
+            "Fusion",
+            "Soldering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When welding, proper consideration must be given to__________.": {
+        "correct": [
+            "the effects of heating and cooling on the finished piece"
+        ],
+        "wrong": [
+            "the machinability of the finished piece",
+            "the source of the parent material's composition",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following processes is commonly used to join thermosets and elastomers?": {
+        "correct": [
+            "Adhesive bonding"
+        ],
+        "wrong": [
+            "Brazing",
+            "Oxyacetylene welding",
+            "Soldering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Because the applied pressure promotes a__________action, resistance welds can be produced at lower temperatures than welds made by other processes.": {
+        "correct": [
+            "forging"
+        ],
+        "wrong": [
+            "faying",
+            "roll bonding",
+            "sintering"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is an advantage of adhesive bonding?": {
+        "correct": [
+            "Dissimilar materials can be joined."
+        ],
+        "wrong": [
+            "Only similar materials can be joined.",
+            "Cannot tolerate expansion and contraction.",
+            "Most require heat to be joined."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________overcomes some of the limitations of the shielded metal arc process by moving the powdered flux to the interior of a continuous tubular electrode.": {
+        "correct": [
+            "Flux-cored arc welding (FCAW)"
+        ],
+        "wrong": [
+            "Flash welding (FW)",
+            "Gas metal arc welding (GMAW)",
+            "Submerged arc welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A fixture is a special workholding device that holds work during machining or assembly operations and establishes ________.": {
+        "correct": [
+            "size dimensions"
+        ],
+        "wrong": [
+            "material properties",
+            "location dimensions",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The modern methodology for quickly changing workholder setups with repeatable workpiece location:": {
+        "correct": [
+            "single-minute-exchange-of-dies"
+        ],
+        "wrong": [
+            "modular fixing",
+            "modular jigging",
+            "modular workholding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Some forming processes are sufficiently complex that they may have ________ or more interacting independent variables.": {
+        "correct": [
+            "15"
+        ],
+        "wrong": [
+            "3",
+            "5",
+            "7"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the lengthwise shearing process used to cut coils of sheet metal into several rolls of narrower width.": {
+        "correct": [
+            "Slitting"
+        ],
+        "wrong": [
+            "Cutoff",
+            "Fineblanking",
+            "Press bending"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The primary deformation stress in bulk forming processes is ________.": {
+        "correct": [
+            "compression"
+        ],
+        "wrong": [
+            "tension",
+            "torsion",
+            "shear"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Wire, rod, and tube ________ operations reduce the cross section of a material by pulling it through a die.": {
+        "correct": [
+            "drawing"
+        ],
+        "wrong": [
+            "extrusion",
+            "swaging",
+            "upset forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is the plastic deformation of metals about a linear axis with little or no change in the surface area.": {
+        "correct": [
+            "Bending"
+        ],
+        "wrong": [
+            "Drawing",
+            "Forging",
+            "Shearing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "For some processes, more than 50% of the input energy is spent in overcoming ________.": {
+        "correct": [
+            "friction"
+        ],
+        "wrong": [
+            "inertia",
+            "speed sensitivity",
+            "heat"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "For materials displaying this property, ________ is/are greatest when the material is at elevated temperature.": {
+        "correct": [
+            "speed sensitivity"
+        ],
+        "wrong": [
+            "constitutive relations",
+            "friction",
+            "modeling dynamics"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Approximately ________ of all metal products experience a rolling operation.": {
+        "correct": [
+            "90%"
+        ],
+        "wrong": [
+            "50%",
+            "60%",
+            "65%"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the six Manufacturing System Designs?": {
+        "correct": [
+            "Job Shops, Flow Shops, Linked Cell Manfacturing System (L-CMS), Project Shop, Continuous Processes, Group Technology (GT)"
+        ],
+        "wrong": [
+            "Lean Production, Six Sigma, Theory of Constraints, Toyota Production System, Lean Six Sigma.",
+            "Milling, Drilling, Tapping, Reaming, Sawing, Turning",
+            "Casting, Forming, Machining, Joining, Surface Treatment, Additive Manufacturing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the three elements needed to make an accurate measurement?": {
+        "correct": [
+            "The part, measuring tool, and a standard"
+        ],
+        "wrong": [
+            "The part, a datum, and a drawing",
+            "The part, measuring tool, and a datum",
+            "The part, measuring tool, and a drawing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is the standard measuring temperature for precision measuring?": {
+        "correct": [
+            "20ºC"
+        ],
+        "wrong": [
+            "22ºF",
+            "68ºC",
+            "20º F"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A ________ is an approximate duplicate of the final casting": {
+        "correct": [
+            "pattern"
+        ],
+        "wrong": [
+            "cope",
+            "drag",
+            "riser"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is an example of an independent variable?": {
+        "correct": [
+            "Lubrication"
+        ],
+        "wrong": [
+            "Final temperature",
+            "Power requirements",
+            "Surface finish"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Almost all sheet metal forming is considered to be ________ processing.": {
+        "correct": [
+            "secondary"
+        ],
+        "wrong": [
+            "primary",
+            "tertiary",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ processes are those in which the thicknesses or cross sections of material are reduced or shapes are significantly changed.": {
+        "correct": [
+            "Bulk deformation"
+        ],
+        "wrong": [
+            "Ironworking",
+            "Sheet-forming",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of control does a manufacturing technologist have over independent variables?": {
+        "correct": [
+            "Direct control"
+        ],
+        "wrong": [
+            "No control, after the dependent variables are selected",
+            "No control",
+            "Some control, after the dependent variables are selected"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ increases the diameter of a material by compressing its length.": {
+        "correct": [
+            "Upset forging"
+        ],
+        "wrong": [
+            "Continuous extrusion",
+            "Drawing",
+            "Swaging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a bulk deformation process?": {
+        "correct": [
+            "Flanging"
+        ],
+        "wrong": [
+            "Cold forming",
+            "Extrusion",
+            "Forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In terms of common rolling processes, a ________ is a rectangular solid where the width is greater than twice the thickness.": {
+        "correct": [
+            "slab"
+        ],
+        "wrong": [
+            "bar",
+            "billet",
+            "bloom"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, a heated billet is fed longitudinally into the gap between two large, convex-tapered, offset rolls that rotate in the same direction in order to crack it and is then fed over a pointed mandrel to create a seamless tube.": {
+        "correct": [
+            "rotary piercing"
+        ],
+        "wrong": [
+            "cluster rolling",
+            "flashless forging",
+            "tube forging"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ are those aspects of a process over which the engineer or operator has direct control, and they are generally selected or specified during setup.": {
+        "correct": [
+            "Independent variables"
+        ],
+        "wrong": [
+            "Deformation variables",
+            "Dependent variables",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What do the first two digits in the following welding electrode designation stand for?": {
+        "correct": [
+            "Tensile strength in 1000 psi"
+        ],
+        "wrong": [
+            "(E 7018)",
+            "Alloying element",
+            "Type of coating",
+            "Welding position"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________occurs when properly prepared surfaces are maintained in contact under sufficient pressure and time at elevated temperature.": {
+        "correct": [
+            "Diffusion bonding"
+        ],
+        "wrong": [
+            "Flash",
+            "Lap joints",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "Resistance welds are generally__________than arc welds.": {
+        "correct": [
+            "weaker"
+        ],
+        "wrong": [
+            "larger",
+            "stronger",
+            "equivalent to"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "This common welding process was previously known as MIG welding.": {
+        "correct": [
+            "Gas metal arc welding"
+        ],
+        "wrong": [
+            "Flux-cored arc welding",
+            "Shielded metal arc welding",
+            "Plasma arc welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The torches used in__________produce the highest temperatures available from any practical source.": {
+        "correct": [
+            "plasma arc cutting (PAC)"
+        ],
+        "wrong": [
+            "gas metal arc cutting (GMAC)",
+            "oxyfuel-gas cutting (OFC)",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Maintaining the workpiece at negative and the electrode at positive electrical potential is known as": {
+        "correct": [
+            "reverse polarity (RPDC)"
+        ],
+        "wrong": [
+            "alternating current",
+            "straight polarity (SPDC)",
+            "variable polarity"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________attach one part on top of another and are often used to replace rivets or bolts.": {
+        "correct": [
+            "Plug welds"
+        ],
+        "wrong": [
+            "Bead welds",
+            "Fillet welds",
+            "Groove welds"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "A common error is to make welded structures too__________, restricting their ability to redistribute stresses.": {
+        "correct": [
+            "rigid"
+        ],
+        "wrong": [
+            "cold",
+            "flexible",
+            "plastic"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the four measuring tool categories?": {
+        "correct": [
+            "Outside, inside, depth and height measuring tools"
+        ],
+        "wrong": [
+            "Taper, straight, internal and external measuring tools",
+            "Shaft, hole, tower and edge measuring tools",
+            "Round, square, hexagonal and octagonal measuring tools"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of error occurs when a dial indicator plunger is not mounted perpendicular to the part that is being indicated?": {
+        "correct": [
+            "cosine error"
+        ],
+        "wrong": [
+            "open error",
+            "parallax error",
+            "percentage error"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What linear measuring instrument types are used for transfer measurements (e.g. an outside caliper)?": {
+        "correct": [
+            "Indirect measuring instruments"
+        ],
+        "wrong": [
+            "Discrete measuring instruments",
+            "Direct measuring instruments",
+            "Integral measuring instruments"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What direction does the needle on a dial indicator rotate if the plunger is pushed in?": {
+        "correct": [
+            "Clockwise"
+        ],
+        "wrong": [
+            "Counter clockwise"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Because of its simplicity, this type of mechanical press is most common:": {
+        "correct": [
+            "Crank-driven"
+        ],
+        "wrong": [
+            "Knuckle-joint",
+            "Screw-type",
+            "Toggle mechanism"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following types of press is most useful for producing sheet metal parts with numerous holes or slots that vary in size and shape?": {
+        "correct": [
+            "Turret press"
+        ],
+        "wrong": [
+            "Arch-frame press",
+            "Horn press",
+            "Inclinable press"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "In ________, a hollow ram pushes the die back through a stationary billet.": {
+        "correct": [
+            "indirect extrusion"
+        ],
+        "wrong": [
+            "conform process",
+            "direct extrusion",
+            "hydrostatic extrusion"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The process determines the nature and values of ________.": {
+        "correct": [
+            "dependent variables"
+        ],
+        "wrong": [
+            "deformation variables",
+            "independent variables",
+            "none of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What does the heat help with during the hot working metal process?": {
+        "correct": [
+            "Plastic flow"
+        ],
+        "wrong": [
+            "Inclusions",
+            "Surface finish",
+            "Tolerances"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is a form of upset forging used for making enlarged sections of the ends of rod or wire.": {
+        "correct": [
+            "Cold heading"
+        ],
+        "wrong": [
+            "Backward extrusion",
+            "Forward extrusion",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What type of inspection tool would a snap gauge be classified as?": {
+        "correct": [
+            "Attribute"
+        ],
+        "wrong": [
+            "Variable",
+            "Discrete",
+            "Integral"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Flame and arc-cutting operations may also create issues with__________.": {
+        "correct": [
+            "heat-affected zone"
+        ],
+        "wrong": [
+            "fusion factor",
+            "weldability",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________are made directly onto a flat surface and require no edge preparation.": {
+        "correct": [
+            "Bead welds"
+        ],
+        "wrong": [
+            "Fillet welds",
+            "Groove welds",
+            "Plug welds"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The region of a weldment most likely to exhibit undesirable properties is the__________.": {
+        "correct": [
+            "heat-affected zone"
+        ],
+        "wrong": [
+            "fusion zone",
+            "danger zone",
+            "base metal"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________refers to a group of welding processes that use the flame produced by the combustion of a fuel gas and oxygen as the source of heat.": {
+        "correct": [
+            "Oxyfuel-gas welding"
+        ],
+        "wrong": [
+            "Consumable-electrode arc welding",
+            "Nonconsumable electrode arc welding",
+            "Oxygen torch cutting"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "For resistance welding, the rate of heat input is generally__________.": {
+        "correct": [
+            "high"
+        ],
+        "wrong": [
+            "low",
+            "medium",
+            "Not applicable"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "__________properties can be changed by dilution of the filler by melted base metal, vaporization of various alloy elements, and gas-metal reactions.": {
+        "correct": [
+            "Weld metal"
+        ],
+        "wrong": [
+            "Braze metal",
+            "Bulk chemical",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "When resistance welding,__________are placed in contact with the material and electrical current is passed between them.": {
+        "correct": [
+            "electrodes"
+        ],
+        "wrong": [
+            "faying surfaces",
+            "transguns",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is a disadvantage of resistance welding?": {
+        "correct": [
+            "Clean surfaces are necessary"
+        ],
+        "wrong": [
+            "Process takes time",
+            "Process has a low degree of reliability/repeatability",
+            "Skilled operators are required"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not a way to gain information about independent-dependent relationships?": {
+        "correct": [
+            "None of the above"
+        ],
+        "wrong": [
+            "Experience",
+            "Experiment",
+            "Process modeling"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "________ is a cold-working phenomenon that causes metal to change shape by an amount predicated on the material yield curve post-deformation.": {
+        "correct": [
+            "Elastic springback"
+        ],
+        "wrong": [
+            "Anisotropy",
+            "Residual stresses",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Thin-walled cylinders or cups can be produced from thicker-wall material by ________.": {
+        "correct": [
+            "roll-extrusion"
+        ],
+        "wrong": [
+            "hubbing",
+            "riveting",
+            "sizing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Deformation processes have been designed to exploit a property of some engineering materials known as ________.": {
+        "correct": [
+            "plasticity"
+        ],
+        "wrong": [
+            "flowability",
+            "shearing",
+            "workability"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is an advantage of cold-working?": {
+        "correct": [
+            "Superior dimensional control"
+        ],
+        "wrong": [
+            "Ductility is improved",
+            "No residual stresses are imparted",
+            "Less force is required"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is not considered a component of sheet processing?": {
+        "correct": [
+            "Forging"
+        ],
+        "wrong": [
+            "Bending",
+            "Drawing",
+            "Shearing"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "Oxyacetylene cutting is characterized by a__________rate of heat input and a__________heat-affected zone.": {
+        "correct": [
+            "low, large"
+        ],
+        "wrong": [
+            "low, small",
+            "high, small",
+            "high, large"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "By what is the welding area shielded during gas metal arc welding (GMAW)?": {
+        "correct": [
+            "An inert gas"
+        ],
+        "wrong": [
+            "A granular flux",
+            "A gas flame",
+            "A coated electrode"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which welding process uses acetylene as the principal fuel?": {
+        "correct": [
+            "Oxyfuel gas welding"
+        ],
+        "wrong": [
+            "Unique process welding",
+            "Resistance welding",
+            "Arc welding"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "The use of a tungsten or carbon electrode generally denotes__________.": {
+        "correct": [
+            "nonconsumable electrode arc welding"
+        ],
+        "wrong": [
+            "consumable-electrode arc welding",
+            "oxyfuel-gas welding",
+            "oxygen torch cutting"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "__________is the simplest and most widely used form of resistance welding.": {
+        "correct": [
+            "Resistance spot welding (RSW)"
+        ],
+        "wrong": [
+            "Projection welding",
+            "Resistance butt welding",
+            "Resistance seam welding (RSEW)"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Heat effects tend to be most pronounced for__________welding.": {
+        "correct": [
+            "fusion"
+        ],
+        "wrong": [
+            "powder",
+            "soldering",
+            "solid-state"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What joining process would be used to join two base metals that cannot be melted?": {
+        "correct": [
+            "Brazing"
+        ],
+        "wrong": [
+            "Shielded metal arc welding",
+            "Gas metal arc welding",
+            "All of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 1
+        }
+    },
+    "Which of the following is not a basic fusion weld?": {
+        "correct": [
+            "Ring weld"
+        ],
+        "wrong": [
+            "Fillet weld",
+            "Plug weld",
+            "Bead weld"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Welding produces__________structures.": {
+        "correct": [
+            "monolithic"
+        ],
+        "wrong": [
+            "composite",
+            "polylithic",
+            "None of the above"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "Which of the following is an advantage of resistance welding?": {
+        "correct": [
+            "Minimal part distortion"
+        ],
+        "wrong": [
+            "Joint can be accessed from any side or angle",
+            "Light electrical loads",
+            "Low initial equipment cost"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    ">What is a Sine Bar used to measure?": {
+        "correct": [
+            "Angles"
+        ],
+        "wrong": [
+            "Depths",
+            "Lengths",
+            "Diameters"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What are the two face types of dial indicators?": {
+        "correct": [
+            "Balanced face and continuous reading face"
+        ],
+        "wrong": [
+            "Point face and molded face",
+            "Boxed face and open face",
+            "Cylindrical face and hexagonal face"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "What is a Sine Bar used to measure?": {
+        "correct": [
+            "Angles"
+        ],
+        "wrong": [
+            "Depths",
+            "Diameters",
+            "Lengths"
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    },
+    "_______ is an advantage of modular fixtures?": {
+        "correct": [
+            "Can be used on a variety of parts."
+        ],
+        "wrong": [
+            "Used only on specific parts.",
+            "High skill level required to build the fixture.",
+            "Original cost is high."
+        ],
+        "stats": {
+            "right": 0,
+            "wrong": 0,
+            "times_seen": 0
+        }
+    }
+}
