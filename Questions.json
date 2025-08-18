@@ -4776,21 +4776,6 @@
             "times_seen": 0
         }
     },
-    "What is a Sine Bar used to measure?": {
-        "correct": [
-            "Angles"
-        ],
-        "wrong": [
-            "Depths",
-            "Lengths",
-            "Diameters"
-        ],
-        "stats": {
-            "right": 0,
-            "wrong": 0,
-            "times_seen": 0
-        }
-    },
     "What are the two face types of dial indicators?": {
         "correct": [
             "Balanced face and continuous reading face"
