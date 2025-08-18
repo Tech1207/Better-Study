@@ -8,4 +8,4 @@ For those who dont know Github, press the green button that says "Code", and pre
 
 Python is required to be installed.
 Link to python download for windows: [https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe]
-You can also of course just download it directly form the python website
+You can also of course just download it directly form the python website, or get it off of the microsoft app store.
