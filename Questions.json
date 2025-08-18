@@ -1381,15 +1381,10 @@
     },
     "Sand cores can be used in high pressure die casting.": {
         "correct": [
-            "False",
-            "chill zone"
+            "False"
         ],
         "wrong": [
-            "True",
-            "The outermost part of a typical cast product is known as the",
-            "columnar zone",
-            "equiaxed zone",
-            "labyrinth zone"
+            "True"
         ],
         "stats": {
             "right": 0,
